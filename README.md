@@ -2,6 +2,26 @@
 
 An autonomous and remote-view 4-wheel drive (4WD) wheeled robot built for the Electronics Department Robotics Competition, where it took **1st Place / Champion**. The robot features a custom hardware build designed to look like the iconic **SpongeBob SquarePants Patty Wagon**, perfectly blending robust hardware engineering with an iconic creative aesthetic.
 
+## Project Demo Videos
+
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <b>🤖 Robot Close-Up Demo 1</b><br/><br/>
+        <video src="https://github.com/user-attachments/assets/58259c3e-a99e-4522-a4d7-406ceae49028" controls width="100%">
+        </video>
+      </td>
+      <td width="50%" align="center">
+        <b>🤖 Robot Close-Up Demo 2</b><br/><br/>
+        <video src="https://github.com/user-attachments/assets/e43aaa84-a03d-44ad-8292-48c0eaff334c" controls width="100%">
+        </video>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 ## 🚀 Project Overview
 
 This repository contains the complete firmware, web interface, and hardware control logic for our championship-winning robot. Driven entirely by an **ESP32 Camera module**, the system serves its own wireless control dashboard, allowing operators to monitor live video telemetry and pilot the vehicle from anywhere within network range.
